@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @grabovszky
-- 👀 I’m interested in web technologies, clean code, and recently AI
+- 🏠 Currently I live in Hungary
+- 👀 I’m interested in web technologies
 - 🌱 I’m currently learning React
+- 🖥️ I work at Realio Ltd. as a Front-end Software Developer Intern
 - 📫 Reach me through my website gaborkristof.com, or DM
