@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grabovszky
-- 🏠 Currently I live in Hungary
+- 🏠 Currently I live in Szeged, Hungary
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue.js
 - 🖥️ I work at Realio Ltd. as a Front-end Software Developer Intern
 - 📫 Reach me through my website gaborkristof.com, or DM
