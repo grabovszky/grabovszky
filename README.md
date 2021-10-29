@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grabovszky
-- 🏠 Currently I live in Budapest, Hungary
+- 🏠 Currently I live in Szeged, Hungary
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning React
-- 🖥️ I work at Rackhost Ltd. as a Front-end Software Developer
+- 🌱 I’m currently learning Angular
+- 🖥️ I work at Evista Ltd. as a Front-end Software Developer
 - 📫 Reach me through my website gaborkristof.com, or DM
