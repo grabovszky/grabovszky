@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @grabovszky
-- 🏠 Currently I live in Szeged, Hungary
-- 👀 I’m interested in web technologies
-- 🌱 I’m currently learning Next.js
-- 🖥️ I work at Evista Ltd. as a Front-end Software Developer
-- 📫 Reach me through my website gaborkristof.com, or DM
+
